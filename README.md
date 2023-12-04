@@ -27,5 +27,28 @@ THEN the application should appear on Heroku
 
 ## Image
 
+Below: Image of the text editor webpage application. 
+
+![README.file](./Assets/pic1.png)
+
+## References
+
+Used most of the file structure from Gary Almes'(instructor) unit 19 PWA Github repo. The file structure was modified to match the requirement of 
+homework 19. 
+
+## Collaborators
+
+```
+Jason Yang:
+Github profile - https://github.com/Jasony95
+Classmate that collaborated on the homework assignment together.
+ ```
+
+```
+Sichoun Nplhaib Lee:
+Github profile - https://github.com/DDXP3.
+Classmate that collaborated on the homework assignment together.
+```
+
 
 
